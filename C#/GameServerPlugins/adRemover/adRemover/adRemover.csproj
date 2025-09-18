@@ -1,0 +1,50 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net7.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Assembly-CSharp_publicized">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\Assembly-CSharp_publicized.dll</HintPath>
+    </Reference>
+    <Reference Include="Assembly-CSharp-firstpass">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\Assembly-CSharp-firstpass.dll</HintPath>
+    </Reference>
+    <Reference Include="AudioPlayerApi">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\AudioPlayerApi.dll</HintPath>
+    </Reference>
+    <Reference Include="LabApi">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\LabApi.dll</HintPath>
+    </Reference>
+    <Reference Include="CommandSystem.Core">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\CommandSystem.Core.dll</HintPath>
+    </Reference>
+    <Reference Include="Mirror">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\Mirror.dll</HintPath>
+    </Reference>
+    <Reference Include="NorthwoodLib">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\NorthwoodLib.dll</HintPath>
+    </Reference>
+    <Reference Include="Pooling">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\Pooling.dll</HintPath>
+    </Reference>
+    <Reference Include="ProjectMER">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\ProjectMER.dll</HintPath>
+    </Reference>
+    <Reference Include="Snake">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\Snake.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.CoreModule">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\UnityEngine.CoreModule.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\UnityEngine.dll</HintPath>
+    </Reference>
+    <Reference Include="UnityEngine.PhysicsModule">
+      <HintPath>..\..\..\Documents\Visual Studio Code Scripts\SCP:SL Scripts\dependencies\UnityEngine.PhysicsModule.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+</Project>
