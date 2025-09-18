@@ -1,0 +1,2 @@
+C:\Users\77017\source\repos\MainRPCorePluginUpdated\MainRPCorePlugin\obj\Debug\MainRPCorePlugin.csproj.AssemblyReference.cache
+C:\Users\77017\source\repos\MainRPCorePluginUpdated\MainRPCorePlugin\obj\Debug\MainRPCorePlugin.csproj.CoreCompileInputs.cache
