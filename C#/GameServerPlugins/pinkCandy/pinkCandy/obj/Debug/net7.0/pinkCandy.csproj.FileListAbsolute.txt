@@ -1,0 +1,12 @@
+/Users/salrei/Projects/pinkCandy/pinkCandy/bin/Debug/net7.0/pinkCandy.deps.json
+/Users/salrei/Projects/pinkCandy/pinkCandy/bin/Debug/net7.0/pinkCandy.dll
+/Users/salrei/Projects/pinkCandy/pinkCandy/bin/Debug/net7.0/pinkCandy.pdb
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.csproj.AssemblyReference.cache
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.AssemblyInfoInputs.cache
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.AssemblyInfo.cs
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.csproj.CoreCompileInputs.cache
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.dll
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/refint/pinkCandy.dll
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/pinkCandy.pdb
+/Users/salrei/Projects/pinkCandy/pinkCandy/obj/Debug/net7.0/ref/pinkCandy.dll
