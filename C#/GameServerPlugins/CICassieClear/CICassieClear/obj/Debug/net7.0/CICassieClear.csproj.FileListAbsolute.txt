@@ -1,0 +1,5 @@
+/Users/salrei/Projects/CICassieClear/CICassieClear/obj/Debug/net7.0/CICassieClear.csproj.AssemblyReference.cache
+/Users/salrei/Projects/CICassieClear/CICassieClear/obj/Debug/net7.0/CICassieClear.GeneratedMSBuildEditorConfig.editorconfig
+/Users/salrei/Projects/CICassieClear/CICassieClear/obj/Debug/net7.0/CICassieClear.AssemblyInfoInputs.cache
+/Users/salrei/Projects/CICassieClear/CICassieClear/obj/Debug/net7.0/CICassieClear.AssemblyInfo.cs
+/Users/salrei/Projects/CICassieClear/CICassieClear/obj/Debug/net7.0/CICassieClear.csproj.CoreCompileInputs.cache
