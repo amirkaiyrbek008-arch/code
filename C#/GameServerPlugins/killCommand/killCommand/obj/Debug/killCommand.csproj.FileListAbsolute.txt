@@ -1,0 +1,22 @@
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\killCommand.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\killCommand.pdb
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\Assembly-CSharp-firstpass.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\Assembly-CSharp_publicized.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\AudioPlayerApi.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\CommandSystem.Core.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\LabApi (1).dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\MapEditorReborn.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\Mirror.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\Newtonsoft.Json.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\NorthwoodLib.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\Pooling.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\ProjectMER.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\Snake.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\UnityEngine.dll
+C:\Users\77017\source\repos\killCommand\killCommand\bin\Debug\UnityEngine.PhysicsModule.dll
+C:\Users\77017\source\repos\killCommand\killCommand\obj\Debug\killCommand.csproj.AssemblyReference.cache
+C:\Users\77017\source\repos\killCommand\killCommand\obj\Debug\killCommand.csproj.CoreCompileInputs.cache
+C:\Users\77017\source\repos\killCommand\killCommand\obj\Debug\killComm.46FD1B70.Up2Date
+C:\Users\77017\source\repos\killCommand\killCommand\obj\Debug\killCommand.dll
+C:\Users\77017\source\repos\killCommand\killCommand\obj\Debug\killCommand.pdb

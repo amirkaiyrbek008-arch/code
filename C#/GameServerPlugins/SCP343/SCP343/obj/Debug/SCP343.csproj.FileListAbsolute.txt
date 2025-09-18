@@ -1,0 +1,19 @@
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/SCP343.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/SCP343.pdb
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/Assembly-CSharp-firstpass.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/Assembly-CSharp_publicized.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/CommandSystem.Core.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/LabApi.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/Mirror.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/NorthwoodLib.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/Pooling.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/Snake.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/UnityEngine.CoreModule.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/UnityEngine.dll
+C:/Users/77017/source/repos/SCP343/SCP343/bin/Debug/UnityEngine.PhysicsModule.dll
+C:/Users/77017/source/repos/SCP343/SCP343/obj/Debug/SCP343.csproj.AssemblyReference.cache
+C:/Users/77017/source/repos/SCP343/SCP343/obj/Debug/SCP343.csproj.CoreCompileInputs.cache
+C:/Users/77017/source/repos/SCP343/SCP343/obj/Debug/SCP343.csproj.Up2Date
+C:/Users/77017/source/repos/SCP343/SCP343/obj/Debug/SCP343.dll
+C:/Users/77017/source/repos/SCP343/SCP343/obj/Debug/SCP343.pdb
+/Users/salrei/Documents/Visual Studio Code Scripts/SCP:SL Scripts/drive-download-20250824T184749Z-1-001/SCP343/SCP343/obj/Debug/SCP343.csproj.CoreCompileInputs.cache
