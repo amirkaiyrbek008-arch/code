@@ -1,0 +1,1 @@
+Убирает звук при спавне Chaos Insurgency
